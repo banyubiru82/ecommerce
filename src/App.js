@@ -148,61 +148,61 @@ function App() {
           <div className="">
             <label className="flex items-center py-2">
               <input type="checkbox" className="w-6 h-6 mr-4" />
-              <img src="images/VectorA.png" className="w-6 h-6" />
-              <img src="images/VectorA.png" className="w-6 h-6" />
-              <img src="images/VectorA.png" className="w-6 h-6" />
-              <img src="images/VectorA.png" className="w-6 h-6" />
-              <img src="images/VectorA.png" className="w-6 h-6" />
+              <img src="images/VectorA.png" className="w-6 h-6" alt="bintang"/>
+              <img src="images/VectorA.png" className="w-6 h-6" alt="bintang"/>
+              <img src="images/VectorA.png" className="w-6 h-6" alt="bintang"/>
+              <img src="images/VectorA.png" className="w-6 h-6" alt="bintang"/>
+              <img src="images/VectorA.png" className="w-6 h-6" alt="bintang"/>
             </label>
           </div>
           <div className="">
             <label className="flex items-center py-2">
               <input type="checkbox" className="w-6 h-6 mr-4" />
-              <img src="images/VectorA.png" className="w-6 h-6" />
-              <img src="images/VectorA.png" className="w-6 h-6" />
-              <img src="images/VectorA.png" className="w-6 h-6" />
-              <img src="images/VectorA.png" className="w-6 h-6" />
-              <img src="images/VectorB.png" className="w-6 h-6" />
+              <img src="images/VectorA.png" className="w-6 h-6" alt="bintang"/>
+              <img src="images/VectorA.png" className="w-6 h-6" alt="bintang"/>
+              <img src="images/VectorA.png" className="w-6 h-6" alt="bintang"/>
+              <img src="images/VectorA.png" className="w-6 h-6" alt="bintang"/>
+              <img src="images/VectorB.png" className="w-6 h-6" alt="bintang"/>
             </label>
           </div>
           <div className="">
             <label className="flex items-center py-2">
               <input type="checkbox" className="w-6 h-6 mr-4" />
-              <img src="images/VectorA.png" className="w-6 h-6" />
-              <img src="images/VectorA.png" className="w-6 h-6" />
-              <img src="images/VectorA.png" className="w-6 h-6" />
-              <img src="images/VectorB.png" className="w-6 h-6" />
-              <img src="images/VectorB.png" className="w-6 h-6" />
+              <img src="images/VectorA.png" className="w-6 h-6" alt="bintang"/>
+              <img src="images/VectorA.png" className="w-6 h-6" alt="bintang"/>
+              <img src="images/VectorA.png" className="w-6 h-6" alt="bintang"/>
+              <img src="images/VectorB.png" className="w-6 h-6" alt="bintang"/>
+              <img src="images/VectorB.png" className="w-6 h-6" alt="bintang"/>
             </label>
           </div>
           <div className="">
             <label className="flex items-center py-2">
               <input type="checkbox" className="w-6 h-6 mr-4" />
-              <img src="images/VectorA.png" className="w-6 h-6" />
-              <img src="images/VectorA.png" className="w-6 h-6" />
-              <img src="images/VectorB.png" className="w-6 h-6" />
-              <img src="images/VectorB.png" className="w-6 h-6" />
-              <img src="images/VectorB.png" className="w-6 h-6" />
+              <img src="images/VectorA.png" className="w-6 h-6" alt="bintang"/>
+              <img src="images/VectorA.png" className="w-6 h-6" alt="bintang"/>
+              <img src="images/VectorB.png" className="w-6 h-6" alt="bintang"/>
+              <img src="images/VectorB.png" className="w-6 h-6" alt="bintang"/>
+              <img src="images/VectorB.png" className="w-6 h-6" alt="bintang"/>
             </label>
           </div>
           <div className="">
             <label className="flex items-center py-2">
               <input type="checkbox" className="w-6 h-6 mr-4" />
-              <img src="images/VectorA.png" className="w-6 h-6" />
-              <img src="images/VectorB.png" className="w-6 h-6" />
-              <img src="images/VectorB.png" className="w-6 h-6" />
-              <img src="images/VectorB.png" className="w-6 h-6" />
-              <img src="images/VectorB.png" className="w-6 h-6" />
+              <img src="images/VectorA.png" className="w-6 h-6" alt="bintang"/>
+              <img src="images/VectorB.png" className="w-6 h-6" alt="bintang"/>
+              <img src="images/VectorB.png" className="w-6 h-6" alt="bintang"/>
+              <img src="images/VectorB.png" className="w-6 h-6" alt="bintang"/>
+              <img src="images/VectorB.png" className="w-6 h-6" alt="bintang"/>
             </label>
           </div>
           <div className="">
             <label className="flex items-center py-2">
               <input type="checkbox" className="w-6 h-6 mr-4" />
-              <img src="images/VectorB.png" className="w-6 h-6" />
-              <img src="images/VectorB.png" className="w-6 h-6" />
-              <img src="images/VectorB.png" className="w-6 h-6" />
-              <img src="images/VectorB.png" className="w-6 h-6" />
-              <img src="images/VectorB.png" className="w-6 h-6" />
+              <img src="images/VectorB.png" className="w-6 h-6" alt="bintang"/>
+              <img src="images/VectorB.png" className="w-6 h-6" alt="bintang"/>
+              <img src="images/VectorB.png" className="w-6 h-6" alt="bintang"/>
+              <img src="images/VectorB.png" className="w-6 h-6" alt="bintang"/>
+              <img src="images/VectorB.png" className="w-6 h-6" alt="bintang"/>
             </label>
           </div>
 
@@ -392,7 +392,7 @@ function App() {
           <div className="moreproduct flex justify-center mt-20">
             <div className="bg-red-500 hover:be-red-900 border-2 rounded-2xl justify-center text-white w-60 py-4 flex gap-2 items-center">
               <p>Show more products</p>
-              <img src="images/icondrop.png" className="w-2 h-2" />
+              <img src="images/icondrop.png" className="w-2 h-2" alt="bintang"/>
             </div>
           </div>
         </div>
