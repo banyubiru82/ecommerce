@@ -1,4 +1,3 @@
-// import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
@@ -6,7 +5,7 @@ function App() {
     <div className="container  mx-auto">
       <div className="header flex justify-between border-b border-gray-200 py-3 text-sm">
         <div className="flex gap-8 ">
-          <a href="https://www.google.com/" className="text-green-500">
+          <a href="/#" className="text-green-500">
             Chat whith me
           </a>
           <p className="text-green-500">081334200532</p>
@@ -406,16 +405,16 @@ function App() {
           <h2 className="font-bold text-xl">Get in touch</h2>
           <ul className="text-red-500">
             <li className="py-2">
-              <a href="https://www.google.com/">About Us</a>
+              <a href="/#">About Us</a>
             </li>
             <li className="py-2">
-              <a href="https://www.google.com/">Careers</a>
+              <a href="/#">Careers</a>
             </li>
             <li className="py-2">
-              <a href="https://www.google.com/">Press Releases</a>
+              <a href="/#">Press Releases</a>
             </li>
             <li className="py-2">
-              <a href="https://www.google.com/">Blog</a>
+              <a href="/#">Blog</a>
             </li>
           </ul>
         </div>
@@ -423,19 +422,19 @@ function App() {
           <h2 className="font-bold text-xl">Connections</h2>
           <ul className="text-red-500">
             <li className="py-2">
-              <a href="https://www.google.com/">Facebook</a>
+              <a href="/#">Facebook</a>
             </li>
             <li className="py-2">
-              <a href="https://www.google.com/">Twitter</a>
+              <a href="/#">Twitter</a>
             </li>
             <li className="py-2">
-              <a href="https://www.google.com/">Instagram</a>
+              <a href="/#">Instagram</a>
             </li>
             <li className="py-2">
-              <a href="https://www.google.com/">Youtube</a>
+              <a href="/#">Youtube</a>
             </li>
             <li className="py-2">
-              <a href="https://www.google.com/">LinkedIn</a>
+              <a href="/#">LinkedIn</a>
             </li>
           </ul>
         </div>
@@ -443,13 +442,13 @@ function App() {
           <h2 className="font-bold text-xl">Earning</h2>
           <ul className="text-red-500">
             <li className="py-2">
-              <a href="https://www.google.com/">Become an Affiliate</a>
+              <a href="/#">Become an Affiliate</a>
             </li>
             <li className="py-2">
-              <a href="https://www.google.com/">Advertise your prouduct</a>
+              <a href="/#">Advertise your prouduct</a>
             </li>
             <li className="py-2">
-              <a href="https://www.google.com/">Sell on Market</a>
+              <a href="/#">Sell on Market</a>
             </li>
           </ul>
         </div>
@@ -457,19 +456,19 @@ function App() {
           <h2 className="font-bold text-xl">Account</h2>
           <ul className="text-red-500">
             <li className="py-2">
-              <a href="https://www.google.com/">Your account</a>
+              <a href="/#">Your account</a>
             </li>
             <li className="py-2">
-              <a href="https://www.google.com/">Return Centre</a>
+              <a href="/#">Return Centre</a>
             </li>
             <li className="py-2">
-              <a href="https://www.google.com/">100% purchase protection</a>
+              <a href="/#">100% purchase protection</a>
             </li>
             <li className="py-2">
-              <a href="https://www.google.com/">Chat withs us</a>
+              <a href="/#">Chat withs us</a>
             </li>
             <li className="py-2">
-              <a href="https://www.google.com/">Help</a>
+              <a href="/#">Help</a>
             </li>
           </ul>
         </div>
